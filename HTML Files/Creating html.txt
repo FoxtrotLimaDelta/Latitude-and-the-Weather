@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Some Common HTML Tags</title>
+</head>
+
+<body>
+  <!-- any weird symbols here such as &gt; or &lt; are HTML escape characters. http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php -->
+  <!-- these allow us to do things like write escaped HTML, or HTML that just gets rendered as text in the document -->
+  <h1>Some Common HTML Tags</h1>
+  <section>
+    <hr>
+    <h2>Paragraph Tags</h2>
+    <p>
+      <code>&lt;p&gt;</code> tags are for containing blocks of text. A paragraph tag is a block level element, so by default, each paragraph tag will take up it's own line.
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">Learn More!</a>
+    </p>
+  </section>
+
+  <section>
+    <hr>
+    <h2>Heading Tags</h2>
+    <p>
+      <code>&lt;h1&gt; - &lt;h6&gt;</code> tags are for containing larger sizes of heading text for things such as titles or subtitles. Not to be confused with header or head tags.
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements">Learn More!</a>
+    </p>
+  </section>
+
+  <section>
+    <hr>
+    <h2>Horizontal Rule Tags</h2>
+    <p>
+      <code>&lt;hr /&gt;</code> tags are for seperating content with a horizontal rule. This element is self closing, so so you'd just write <code>&lt;hr&gt;</code> instead of <code>&lt;hr&gt;&lt;/hr&gt;</code> to use it in your document.
+      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr">Learn More!</a>
+    </p>
+  </section>
