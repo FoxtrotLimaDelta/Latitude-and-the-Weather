@@ -11,7 +11,7 @@ flex-container {
   height: auto;
   }
 
-img:{
+img{
   margin-right: 20px;
   }
 body{
@@ -20,10 +20,9 @@ body{
 
 .imageNav-photo:hover {
     border-color: black;
-    border: 5px solid;
+    border: 3px solid;
 }
 
 .imageNav-photo{
   margin: 20px;
-  
 }
