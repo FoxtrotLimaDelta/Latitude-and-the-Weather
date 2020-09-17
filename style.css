@@ -1,0 +1,28 @@
+
+.head1 {
+margin-top: 30px;
+font-size: 60px
+}
+
+flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width:100%;
+  height: auto;
+  }
+
+img{
+  margin-right: 20px;
+  }
+body{
+  background-color: #CCCCFF;
+}
+
+.imageNav-photo:hover {
+    border-color: black;
+    border: 3px solid;
+}
+
+.imageNav-photo{
+  margin: 20px;
+}
